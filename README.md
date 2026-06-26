@@ -2,7 +2,7 @@
 
 > **Using BDHS 2022 Data** | Presented at **BECITHCON 2026** — Track: *Big Data Analytics for Health Care*
 >
-> **Author:** Md Sohag Hossain
+> **Author:** Md. Sohag Hossain
 
 ---
 
